@@ -13,7 +13,8 @@
 ### 클러스터링 결과
 - CoKe
   
- ![image](https://github.com/amthreeh/ksc2023-SSL_clustering/assets/103898937/04cd86e6-ec19-4319-97b3-bd65f516d839)
+![image](https://github.com/amthreeh/ksc2023-SSL_clustering/assets/103898937/d007868c-94c6-4437-b235-0745b5af2605)
+
 - 맨하탄 거리[왼쪽] / 췌비셰프 거리[오른쪽]
 
  ![image](https://github.com/amthreeh/ksc2023-SSL_clustering/assets/103898937/6d81f38f-b491-4418-859e-687fcd610c36)
