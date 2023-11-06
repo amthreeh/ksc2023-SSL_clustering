@@ -16,9 +16,9 @@
 3. CIFAKE: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
 
 # CoKe(유클리디언 거리 방식)
-  - coke_v1_c10.py
-  - coke_v1_stl10.py
-  - coke_cifake.py
+    - coke_v1_c10.py
+    - coke_v1_stl10.py
+    - coke_cifake.py
     
 # 맨하탄 거리 방식
     - mh_v1_cifar10.py
