@@ -12,11 +12,14 @@
 
 ### 클러스터링 결과
 - CoKe
-![image](https://github.com/amthreeh/ksc2023-SSL_clustering/assets/103898937/04cd86e6-ec19-4319-97b3-bd65f516d839)
-- 맨하탄 거리 
-![image](https://github.com/amthreeh/ksc2023-SSL_clustering/assets/103898937/a3fdce37-20da-43f0-99ce-14729666bad3)
+  
+    ![image](https://github.com/amthreeh/ksc2023-SSL_clustering/assets/103898937/04cd86e6-ec19-4319-97b3-bd65f516d839)
+- 맨하탄 거리
+  
+    ![image](https://github.com/amthreeh/ksc2023-SSL_clustering/assets/103898937/a3fdce37-20da-43f0-99ce-14729666bad3)
 - 췌비셰프 거리 
-![image](https://github.com/amthreeh/ksc2023-SSL_clustering/assets/103898937/63f8e2b0-bacb-4d40-91b9-e3e9db19d783)
+
+    ![image](https://github.com/amthreeh/ksc2023-SSL_clustering/assets/103898937/63f8e2b0-bacb-4d40-91b9-e3e9db19d783)
 
 
 - Data:
